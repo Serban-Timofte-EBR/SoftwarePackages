@@ -1,0 +1,501 @@
+ClientID,CompanyName,Industry,Country,ContractValue,ContractType,DurationMonths,ContractStartDate
+1,Jackson Ltd,Manufacturing,Swaziland,336510,SaaS,20,2025-02-18
+2,Gutierrez LLC,Healthcare,Philippines,127982,SaaS,14,2022-05-10
+3,Young-Evans,Manufacturing,Benin,244749,Custom Development,22,2023-12-09
+4,Rodriguez-Rowe,Manufacturing,Switzerland,64569,SaaS,9,2023-10-29
+5,Bush LLC,Retail,Cuba,431415,Enterprise,24,2024-12-13
+6,"Chan, Gray and Wagner",Manufacturing,Belgium,449141,SaaS,17,2022-12-30
+7,Curtis PLC,Healthcare,Solomon Islands,438230,SaaS,8,2024-07-27
+8,Casey LLC,Finance,Holy See (Vatican City State),151936,Consulting,30,2023-12-22
+9,Martin-Rivera,Technology,Algeria,127109,Custom Development,9,2022-10-15
+10,Ross-Powell,Manufacturing,Haiti,11634,Enterprise,35,2023-08-10
+11,Dean Ltd,Technology,Sweden,268037,Enterprise,6,2022-08-11
+12,Holt Group,Retail,Reunion,65109,SaaS,28,2022-06-11
+13,Gonzales Group,Retail,Panama,245411,Consulting,19,2022-07-08
+14,"Allen, Pineda and Jones",Healthcare,Brazil,109827,SaaS,33,2024-06-13
+15,"Good, Miller and Murray",Retail,Hong Kong,99909,Enterprise,24,2024-09-06
+16,Simon and Sons,Technology,Japan,208986,Enterprise,35,2022-06-06
+17,"Ward, George and Le",Retail,Somalia,345847,Consulting,24,2022-06-08
+18,Hamilton PLC,Finance,Serbia,125197,Enterprise,32,2024-06-30
+19,Smith and Sons,Healthcare,Moldova,392507,SaaS,30,2023-01-18
+20,"Williams, Jefferson and Weaver",Healthcare,Lebanon,28387,Custom Development,24,2024-01-18
+21,"Martin, Martin and Buckley",Technology,Mozambique,346790,SaaS,10,2024-09-18
+22,Walker-Orozco,Technology,Dominican Republic,247247,Enterprise,8,2024-05-30
+23,Wright PLC,Finance,New Caledonia,405683,SaaS,11,2023-10-22
+24,Lee-Wong,Manufacturing,Seychelles,254627,Custom Development,21,2024-05-20
+25,Patton Inc,Finance,Papua New Guinea,342995,Consulting,21,2022-11-06
+26,Smith-Pennington,Retail,Lithuania,222023,Custom Development,18,2024-05-17
+27,Williams LLC,Technology,Swaziland,260946,SaaS,31,2023-09-07
+28,Wolfe-Ayers,Retail,Jordan,315562,Consulting,31,2024-03-06
+29,Roberson-Smith,Finance,Micronesia,52972,Consulting,29,2023-05-30
+30,Page Ltd,Manufacturing,Uruguay,22643,Consulting,14,2022-10-06
+31,Williams LLC,Retail,Taiwan,324100,SaaS,22,2024-10-29
+32,Cross Group,Manufacturing,Cyprus,230084,Consulting,29,2024-10-07
+33,Smith PLC,Manufacturing,Saint Vincent and the Grenadines,270553,Consulting,8,2024-09-27
+34,Hunter-Sosa,Manufacturing,Benin,359098,Enterprise,19,2022-12-25
+35,Hudson-Carson,Healthcare,Tanzania,192490,Custom Development,33,2025-01-13
+36,Lewis LLC,Retail,Belgium,324438,Consulting,16,2023-08-18
+37,Hamilton-Neal,Finance,Syrian Arab Republic,21919,Enterprise,12,2022-11-09
+38,Russell-Foster,Finance,Switzerland,291637,Custom Development,36,2023-02-19
+39,Thomas-Thomas,Retail,Kiribati,347032,Custom Development,26,2022-06-04
+40,Evans Inc,Manufacturing,Colombia,419864,Custom Development,12,2024-07-30
+41,Kirby-Smith,Retail,Slovenia,186349,Enterprise,13,2024-02-18
+42,Mcguire LLC,Manufacturing,Spain,158624,Consulting,9,2024-12-27
+43,"Nixon, Williamson and Mclaughlin",Retail,Marshall Islands,383993,Consulting,18,2022-11-15
+44,Miranda Group,Finance,United Arab Emirates,473774,Custom Development,6,2024-03-26
+45,"Meyer, Young and Underwood",Finance,Albania,179578,Enterprise,30,2023-03-05
+46,"Hamilton, Camacho and Murillo",Manufacturing,Sierra Leone,205464,Enterprise,15,2024-10-04
+47,Deleon-Perkins,Healthcare,Tuvalu,182861,Consulting,15,2023-04-15
+48,Watson-Schwartz,Retail,Heard Island and McDonald Islands,262419,SaaS,17,2024-01-20
+49,Owens Inc,Manufacturing,Guinea,154493,SaaS,13,2023-11-15
+50,Johnson-Robertson,Finance,Brunei Darussalam,270185,Custom Development,17,2024-08-26
+51,"Sanders, Johnson and Palmer",Manufacturing,Nigeria,123254,Custom Development,10,2023-10-10
+52,Bradley-Nelson,Manufacturing,Seychelles,69604,SaaS,32,2025-01-18
+53,Hernandez-Thomas,Manufacturing,Israel,131471,Enterprise,27,2024-07-06
+54,"Hart, Juarez and Garcia",Finance,Slovenia,7978,Enterprise,27,2023-11-24
+55,Mccann Ltd,Manufacturing,Slovenia,372569,Enterprise,30,2025-02-12
+56,"Thomas, Brooks and Santiago",Manufacturing,Burundi,70010,Consulting,12,2024-07-19
+57,"Miller, Moreno and Jensen",Manufacturing,Pakistan,189900,SaaS,10,2023-01-20
+58,Li-Ruiz,Healthcare,Faroe Islands,282704,SaaS,12,2022-07-01
+59,"Griffith, Lamb and Diaz",Healthcare,Egypt,411888,Consulting,20,2023-09-22
+60,Larson-Harris,Manufacturing,Turkey,219524,SaaS,17,2023-04-08
+61,Curry Group,Technology,Falkland Islands (Malvinas),371780,Consulting,30,2024-06-08
+62,Chan LLC,Technology,Djibouti,422865,SaaS,15,2025-02-18
+63,Lee Ltd,Healthcare,Costa Rica,383142,Enterprise,14,2022-06-09
+64,Mccall Inc,Retail,British Virgin Islands,169304,Consulting,12,2023-11-15
+65,Hogan-Figueroa,Healthcare,Kazakhstan,311515,Consulting,19,2024-01-05
+66,Sosa-Hall,Finance,Bulgaria,342430,SaaS,30,2024-12-09
+67,"Burke, Gomez and Taylor",Finance,Pitcairn Islands,247228,Consulting,7,2022-12-29
+68,Brown-Collins,Finance,Jordan,5627,Consulting,33,2024-11-26
+69,"Singh, Wolf and Sullivan",Healthcare,Hungary,271287,SaaS,26,2024-03-01
+70,"Yates, Hall and Marks",Retail,Fiji,214546,Custom Development,35,2025-01-09
+71,"Lee, Russell and Norton",Retail,Cape Verde,174519,Consulting,9,2024-05-03
+72,Carter-Anderson,Manufacturing,Jordan,192995,Consulting,22,2023-11-27
+73,Gilbert Ltd,Retail,Somalia,163032,SaaS,16,2024-10-15
+74,"Maldonado, Cox and Black",Healthcare,Guam,346054,Custom Development,17,2024-04-17
+75,King LLC,Finance,Argentina,454585,Consulting,29,2024-05-15
+76,Dougherty and Sons,Technology,Belarus,450920,SaaS,24,2024-10-31
+77,"Escobar, Gregory and Allen",Retail,Saint Lucia,318386,Custom Development,18,2023-08-19
+78,Johnson-Little,Retail,French Southern Territories,311409,Consulting,33,2023-08-29
+79,"King, Davis and Rodriguez",Retail,Uganda,330959,Consulting,36,2023-06-08
+80,"Johnson, Adams and Hester",Finance,Mauritania,480645,Enterprise,11,2023-01-26
+81,"Thompson, Williams and Gonzalez",Retail,Saint Vincent and the Grenadines,165154,Enterprise,16,2022-09-20
+82,Manning LLC,Retail,Nauru,380484,Consulting,24,2024-12-02
+83,Thompson-Miller,Retail,Tanzania,343729,SaaS,21,2023-03-23
+84,"Lane, Moore and Thomas",Retail,Seychelles,29442,Consulting,23,2022-11-19
+85,Espinoza-Fisher,Technology,Taiwan,83874,Custom Development,8,2022-12-25
+86,"Craig, Carter and Gray",Retail,Estonia,419933,SaaS,30,2023-10-09
+87,"Brooks, Bailey and Terrell",Healthcare,San Marino,278713,Custom Development,12,2024-03-28
+88,Pitts PLC,Finance,Svalbard & Jan Mayen Islands,339040,Enterprise,19,2024-10-18
+89,"Jones, Chambers and Calderon",Finance,Somalia,325127,Custom Development,29,2024-12-13
+90,Henson PLC,Technology,Faroe Islands,153764,Enterprise,29,2024-01-27
+91,Todd-Butler,Healthcare,Wallis and Futuna,96101,Enterprise,11,2024-11-03
+92,Hill Inc,Finance,Turks and Caicos Islands,449603,SaaS,21,2025-02-22
+93,Long and Sons,Manufacturing,Kuwait,14400,SaaS,13,2024-11-30
+94,Hunt-Holland,Manufacturing,Senegal,37011,SaaS,10,2022-03-21
+95,Lee-Nguyen,Manufacturing,Greece,114967,Enterprise,19,2022-07-08
+96,Miller-Huber,Finance,Zimbabwe,215905,Enterprise,28,2022-12-26
+97,"Schultz, Watson and Haney",Technology,Saint Lucia,445152,Custom Development,35,2022-04-28
+98,Reyes Group,Technology,Angola,443266,Enterprise,17,2024-08-29
+99,Willis Inc,Retail,Poland,52377,Consulting,33,2023-07-26
+100,Mcdonald-Williams,Manufacturing,Falkland Islands (Malvinas),318760,Custom Development,20,2023-04-26
+101,Young-Chandler,Finance,Russian Federation,156052,SaaS,10,2023-08-07
+102,Bell-Brooks,Healthcare,Greenland,234236,Consulting,34,2025-01-20
+103,Galvan LLC,Manufacturing,Cape Verde,449159,Custom Development,26,2024-10-22
+104,Murray PLC,Manufacturing,Isle of Man,256895,Consulting,12,2023-09-25
+105,Adkins PLC,Technology,Andorra,209328,Consulting,11,2024-09-17
+106,Long Group,Finance,Saint Kitts and Nevis,117142,Enterprise,11,2024-11-28
+107,Foster LLC,Technology,Guam,153430,Enterprise,20,2024-02-25
+108,Robinson PLC,Retail,Sweden,144687,SaaS,13,2023-11-21
+109,"Rodriguez, Ruiz and Flores",Finance,Malaysia,275468,Custom Development,11,2024-06-15
+110,"Christian, Nichols and Berg",Finance,Mongolia,472639,Consulting,14,2022-12-27
+111,Manning-Gardner,Retail,South Georgia and the South Sandwich Islands,151709,Consulting,36,2024-11-08
+112,"Jones, Harris and Lawson",Manufacturing,Tunisia,158855,Enterprise,6,2024-01-31
+113,Brown-Mckee,Manufacturing,New Zealand,485579,SaaS,9,2023-04-15
+114,Murphy-Reyes,Healthcare,Belarus,32210,Custom Development,8,2025-03-09
+115,"King, Mahoney and Hardy",Retail,French Polynesia,27692,SaaS,34,2024-08-22
+116,Nelson-Garcia,Finance,Vanuatu,314500,Custom Development,33,2024-11-19
+117,Campbell-Perez,Technology,Qatar,95552,SaaS,15,2023-02-13
+118,"Turner, Matthews and Scott",Finance,Moldova,59906,Enterprise,21,2023-05-22
+119,"Fitzgerald, Marsh and Nichols",Healthcare,Pakistan,337142,Enterprise,14,2022-11-25
+120,"Mcdonald, Anderson and Cervantes",Manufacturing,Central African Republic,236010,SaaS,28,2022-09-19
+121,"Gill, Rodriguez and Stephens",Finance,Croatia,276549,Consulting,16,2023-10-01
+122,Velasquez-Carter,Healthcare,Uruguay,343284,Consulting,36,2024-09-03
+123,Henry-Sandoval,Healthcare,South Georgia and the South Sandwich Islands,286244,Custom Development,33,2023-01-27
+124,Wade and Sons,Manufacturing,Myanmar,105487,SaaS,6,2022-04-02
+125,"Hinton, Watson and Browning",Technology,Faroe Islands,463362,Enterprise,14,2024-01-29
+126,"Rivera, Berger and Buchanan",Finance,Somalia,331308,SaaS,29,2023-03-24
+127,Johnson-Shannon,Healthcare,French Polynesia,422895,SaaS,14,2022-08-28
+128,Jones-Figueroa,Retail,Cambodia,110980,SaaS,11,2022-09-21
+129,"Woods, Edwards and Goodman",Retail,Pakistan,77494,SaaS,19,2023-06-23
+130,Romero-Ochoa,Retail,Suriname,276417,SaaS,22,2022-09-22
+131,Villarreal and Sons,Technology,Ghana,414666,Enterprise,31,2023-02-05
+132,Gonzalez PLC,Manufacturing,French Southern Territories,158842,Enterprise,9,2023-06-20
+133,"Salas, Chambers and Abbott",Manufacturing,Palestinian Territory,282558,Consulting,27,2023-08-27
+134,"Collins, Rice and Le",Manufacturing,Somalia,125219,Custom Development,9,2023-04-08
+135,Garrison Inc,Technology,Qatar,307443,Enterprise,22,2024-05-13
+136,Parker Inc,Manufacturing,Timor-Leste,452643,Enterprise,26,2023-06-23
+137,Shields LLC,Retail,Pakistan,205084,Enterprise,29,2023-04-25
+138,Garza-Padilla,Finance,Ghana,17812,Enterprise,23,2022-11-23
+139,"Best, Burns and Soto",Finance,Congo,144813,Custom Development,12,2024-11-02
+140,"Martin, Knight and Salinas",Healthcare,Philippines,129163,Custom Development,20,2024-07-30
+141,Leach Inc,Retail,Afghanistan,437214,Consulting,20,2024-12-22
+142,"Banks, Burnett and Beck",Healthcare,Marshall Islands,152590,Custom Development,7,2023-02-23
+143,Simpson-Davis,Finance,Andorra,109415,Enterprise,23,2022-08-10
+144,Gray-Allen,Technology,Saint Martin,243061,Consulting,32,2023-10-05
+145,"Ramos, Sandoval and Rios",Healthcare,Guyana,159442,Consulting,17,2023-12-07
+146,Baker LLC,Finance,Marshall Islands,41517,Consulting,15,2024-04-05
+147,Reid Inc,Healthcare,South Georgia and the South Sandwich Islands,77192,Enterprise,23,2023-03-19
+148,Lee-Robinson,Healthcare,Benin,251205,Enterprise,34,2023-04-27
+149,Valdez-Mercado,Healthcare,Germany,342636,Custom Development,11,2023-05-21
+150,"Carson, Hart and Lewis",Technology,Jersey,271701,SaaS,28,2023-08-14
+151,Wood Ltd,Healthcare,Solomon Islands,151040,SaaS,28,2023-01-09
+152,Durham Inc,Finance,Kenya,177028,Enterprise,13,2022-12-14
+153,"Rocha, Thomas and Nelson",Healthcare,Macao,71491,Enterprise,23,2024-07-21
+154,Morris-Dixon,Finance,United States of America,481384,Consulting,36,2024-10-25
+155,Wright Inc,Retail,Norfolk Island,159143,SaaS,9,2024-07-26
+156,"Wright, Thomas and Logan",Healthcare,Mauritania,170588,Consulting,15,2024-06-25
+157,"Brock, Young and Werner",Manufacturing,Trinidad and Tobago,431984,SaaS,29,2024-02-24
+158,Castaneda Group,Technology,Chad,329168,Enterprise,31,2022-05-19
+159,Rollins PLC,Healthcare,Jersey,14612,Custom Development,25,2022-08-20
+160,Camacho-Jones,Technology,Georgia,307810,Consulting,10,2022-08-13
+161,"Lara, Phillips and Johns",Manufacturing,Lesotho,141426,Enterprise,8,2024-08-23
+162,Smith Group,Manufacturing,United Kingdom,268359,SaaS,29,2023-12-10
+163,"Braun, Murray and Johnson",Manufacturing,Saudi Arabia,412042,Custom Development,35,2025-03-01
+164,"Shah, Jackson and Small",Retail,Congo,243261,Consulting,34,2024-12-13
+165,"Riley, Arias and Burnett",Healthcare,Bahamas,474351,Enterprise,33,2023-04-19
+166,Mitchell PLC,Healthcare,Brazil,377796,SaaS,31,2022-10-03
+167,Martin-Nelson,Finance,Aruba,232414,Custom Development,14,2024-01-23
+168,"Frederick, Washington and Sutton",Finance,United States of America,87625,SaaS,14,2023-07-25
+169,Matthews LLC,Retail,India,386642,SaaS,13,2024-09-04
+170,Armstrong-Davidson,Finance,Belize,19461,Enterprise,16,2022-04-30
+171,Rodriguez-Harper,Retail,Liberia,324901,SaaS,22,2024-02-19
+172,Austin-Stevenson,Manufacturing,Dominica,155103,Custom Development,14,2024-01-14
+173,Underwood-Mcgee,Retail,Cyprus,352264,SaaS,33,2022-05-04
+174,Lin-Allen,Retail,Azerbaijan,270426,Custom Development,17,2022-11-04
+175,Torres-Green,Healthcare,Hong Kong,356643,SaaS,27,2024-01-03
+176,Ray LLC,Healthcare,Gabon,29210,Custom Development,14,2022-07-27
+177,Ramsey-Martinez,Healthcare,Austria,335920,SaaS,29,2023-04-19
+178,Moreno and Sons,Finance,Guinea,283773,Custom Development,14,2023-08-13
+179,Andrade-Leonard,Manufacturing,Barbados,468966,Enterprise,30,2022-03-29
+180,Pittman Group,Healthcare,Algeria,194063,Consulting,6,2024-11-18
+181,Galloway-Turner,Healthcare,Guyana,39166,Consulting,11,2024-08-07
+182,"Hampton, Martin and Cameron",Retail,Croatia,43351,Custom Development,25,2022-04-19
+183,Cox Inc,Healthcare,Lithuania,361054,Consulting,34,2024-04-16
+184,"Fisher, Davis and Thomas",Manufacturing,Aruba,94634,SaaS,33,2023-02-04
+185,Green Group,Manufacturing,Lesotho,450736,Enterprise,34,2023-05-04
+186,Klein-Johnson,Technology,Nicaragua,341568,SaaS,22,2024-03-27
+187,Carter-Villanueva,Retail,Korea,348403,SaaS,24,2024-11-12
+188,Garcia Inc,Technology,Russian Federation,446107,Enterprise,11,2025-01-25
+189,"Holder, Hill and Fleming",Healthcare,Tanzania,330987,Custom Development,9,2024-02-14
+190,Weiss Ltd,Retail,Myanmar,335948,Consulting,27,2024-07-03
+191,Pham-Levy,Manufacturing,New Caledonia,486722,Custom Development,14,2025-02-02
+192,Conley Ltd,Technology,Croatia,215196,Consulting,32,2023-11-06
+193,Green Inc,Manufacturing,Aruba,52033,Consulting,25,2022-10-06
+194,Walker-Thompson,Healthcare,Central African Republic,182926,Enterprise,24,2023-10-29
+195,"Fitzgerald, Parrish and Wilson",Technology,Malaysia,135497,SaaS,16,2024-11-16
+196,Weeks Inc,Healthcare,Comoros,277804,SaaS,21,2023-08-02
+197,"Gonzalez, Jackson and Miller",Technology,Myanmar,53896,SaaS,34,2024-09-16
+198,"Byrd, Armstrong and Davis",Healthcare,Benin,331355,Enterprise,18,2023-07-22
+199,Kane-May,Manufacturing,Central African Republic,120331,Consulting,21,2023-09-26
+200,"Sandoval, Smith and Richardson",Healthcare,San Marino,235668,Consulting,33,2022-09-06
+201,Rivera-Mcbride,Technology,France,222484,Custom Development,22,2023-05-30
+202,Clark and Sons,Retail,Afghanistan,439675,SaaS,30,2022-04-18
+203,Gonzalez-Rice,Finance,United Kingdom,451727,Consulting,31,2025-01-31
+204,"Buck, Miller and Holt",Healthcare,Guatemala,375473,SaaS,26,2024-01-20
+205,"Castro, Hall and Porter",Retail,Cocos (Keeling) Islands,425200,Consulting,12,2024-08-30
+206,Ramos Inc,Manufacturing,Slovakia (Slovak Republic),359328,Consulting,26,2022-04-04
+207,Rodriguez-Gray,Healthcare,Congo,446399,Consulting,17,2023-08-04
+208,Hernandez-Jackson,Retail,Antigua and Barbuda,256914,Enterprise,13,2022-04-04
+209,Parker-Cortez,Manufacturing,Iran,308298,SaaS,25,2022-07-23
+210,"Boyd, Hayes and Miller",Retail,Tokelau,7279,Custom Development,28,2024-06-09
+211,"Jarvis, Wilson and Francis",Healthcare,Martinique,490139,Custom Development,14,2025-02-12
+212,"Knight, James and Evans",Technology,Jamaica,17904,Consulting,6,2024-01-22
+213,Adams Group,Finance,Lao People's Democratic Republic,390615,Consulting,26,2024-09-25
+214,Wilson-Harris,Finance,Moldova,84837,Enterprise,32,2023-05-19
+215,Miles-Miles,Manufacturing,Comoros,57807,SaaS,16,2023-03-15
+216,Porter-Diaz,Technology,Aruba,128843,Enterprise,20,2023-12-22
+217,Edwards Group,Manufacturing,South Africa,72377,SaaS,34,2024-04-23
+218,"Price, Tyler and Walker",Retail,Uruguay,25736,Custom Development,27,2022-08-30
+219,Burns and Sons,Technology,Cameroon,206225,Enterprise,23,2024-08-23
+220,"Guzman, Williams and Perez",Finance,Reunion,267090,Custom Development,15,2024-12-01
+221,"Walsh, Medina and Blevins",Manufacturing,Uruguay,130492,Consulting,35,2022-09-06
+222,Wells Ltd,Manufacturing,Samoa,186923,Custom Development,27,2024-06-27
+223,Sandoval-Marshall,Finance,Jersey,385070,SaaS,22,2024-08-10
+224,Welch-Knight,Finance,Albania,419132,SaaS,27,2024-07-19
+225,Lopez LLC,Healthcare,Haiti,32161,SaaS,17,2025-03-12
+226,King-Horton,Finance,Cameroon,175654,Enterprise,14,2023-12-18
+227,Lambert-Anderson,Retail,Lebanon,70654,Enterprise,9,2023-07-30
+228,"Roberts, Hunt and Hamilton",Technology,Congo,191795,Consulting,13,2022-04-22
+229,"Rosales, Bennett and Williams",Healthcare,Qatar,50301,Enterprise,14,2022-08-24
+230,"Hawkins, Martinez and Edwards",Retail,Montserrat,320685,Enterprise,13,2023-09-20
+231,Johnson-Collins,Retail,Cameroon,293399,Consulting,15,2022-04-11
+232,"Reed, Clay and Hays",Finance,Kazakhstan,102178,SaaS,33,2022-09-28
+233,Foster-Rich,Healthcare,Iceland,284688,Consulting,26,2022-06-04
+234,Smith Inc,Retail,China,226886,SaaS,34,2024-12-22
+235,Lewis Group,Finance,Tuvalu,482772,Enterprise,33,2024-07-29
+236,Pena-Scott,Healthcare,Isle of Man,293394,Custom Development,13,2023-02-08
+237,Thompson Inc,Retail,Samoa,364696,Enterprise,8,2024-03-05
+238,Hamilton LLC,Healthcare,France,336583,Enterprise,17,2025-02-10
+239,Nicholson-White,Manufacturing,Niue,299736,Custom Development,33,2023-08-21
+240,Vasquez Inc,Manufacturing,Turkey,146543,Custom Development,26,2023-08-19
+241,Young-Harris,Manufacturing,Gibraltar,349145,Enterprise,11,2024-10-18
+242,Sims Inc,Manufacturing,Luxembourg,339858,Enterprise,17,2023-04-04
+243,"Fowler, Williams and Miller",Retail,Netherlands,364512,Custom Development,18,2024-05-10
+244,Carrillo-Hayes,Manufacturing,Bangladesh,121207,Custom Development,25,2024-12-03
+245,"Craig, Morris and Willis",Manufacturing,Liechtenstein,415638,Custom Development,19,2024-08-23
+246,Singleton-Yoder,Technology,Svalbard & Jan Mayen Islands,174130,Custom Development,35,2022-07-14
+247,"Hall, Warner and Wilson",Healthcare,Sweden,195677,Custom Development,14,2023-08-24
+248,"Santos, Villa and Allen",Healthcare,Hungary,16178,Consulting,28,2023-08-03
+249,Torres-Harrington,Healthcare,Australia,190248,Enterprise,25,2022-09-24
+250,"Cunningham, Holloway and Allen",Retail,Peru,204308,Custom Development,25,2022-05-24
+251,George LLC,Finance,Eritrea,445272,SaaS,31,2023-11-10
+252,Smith and Sons,Finance,United States of America,116749,Enterprise,17,2022-12-12
+253,"Ross, Evans and Robertson",Retail,Peru,492696,Custom Development,10,2022-12-30
+254,"West, Hickman and Vasquez",Technology,Bermuda,356085,Enterprise,24,2023-02-09
+255,Jones PLC,Healthcare,Zambia,420141,Enterprise,18,2023-03-19
+256,"Jackson, Peterson and Berg",Technology,Reunion,198181,Custom Development,12,2022-07-21
+257,"White, Collins and Scott",Finance,Nigeria,225087,SaaS,15,2022-06-09
+258,Thompson-Jones,Manufacturing,Wallis and Futuna,336537,SaaS,12,2024-07-12
+259,"Reilly, Reyes and Reyes",Healthcare,Bosnia and Herzegovina,181969,Enterprise,12,2023-02-03
+260,Lynch Ltd,Technology,Honduras,289479,Custom Development,34,2023-09-29
+261,"Dennis, Wells and Douglas",Manufacturing,Isle of Man,455102,Custom Development,12,2023-11-10
+262,Perez and Sons,Manufacturing,Turkey,54028,Custom Development,21,2024-02-04
+263,"Clark, Warren and Cunningham",Healthcare,Congo,14949,Custom Development,20,2024-03-19
+264,"King, Crawford and Anderson",Finance,Bahrain,212130,Custom Development,19,2022-05-14
+265,Cooper PLC,Retail,Chad,244610,Enterprise,33,2024-09-30
+266,"Fowler, Martin and Rose",Retail,Guatemala,344256,Consulting,10,2022-11-08
+267,Stout PLC,Healthcare,Mexico,64356,Consulting,33,2024-11-20
+268,"Glover, Richards and Klein",Retail,Honduras,213324,Enterprise,36,2025-02-10
+269,Colon Group,Finance,South Africa,8584,Custom Development,10,2023-07-03
+270,Evans PLC,Manufacturing,Mauritania,68535,Enterprise,17,2024-08-19
+271,"Smith, Cunningham and Guzman",Technology,Kyrgyz Republic,6987,SaaS,25,2024-01-29
+272,Bradshaw Group,Retail,Guadeloupe,225160,Enterprise,23,2024-04-23
+273,Andrews-Mcknight,Healthcare,Gambia,455069,SaaS,19,2024-12-31
+274,Hunter Ltd,Healthcare,Cameroon,203336,Enterprise,10,2024-03-14
+275,"Jackson, Spencer and Ball",Finance,Peru,195568,SaaS,9,2025-03-06
+276,Craig-Smith,Healthcare,Iceland,427987,SaaS,25,2024-08-12
+277,Porter LLC,Technology,Eritrea,118134,Custom Development,9,2023-08-10
+278,"Burke, Brown and Baker",Healthcare,Nepal,430817,SaaS,23,2025-01-06
+279,Howard-Hobbs,Finance,Ghana,47145,Custom Development,6,2023-11-02
+280,Ingram and Sons,Finance,Saint Barthelemy,394362,SaaS,13,2022-06-17
+281,Hale and Sons,Finance,Puerto Rico,144597,SaaS,35,2023-12-03
+282,Baker-Johnson,Technology,Jamaica,389825,Consulting,16,2025-02-22
+283,Jensen-Montgomery,Healthcare,Thailand,493877,Custom Development,17,2022-06-30
+284,"Edwards, Osborne and Liu",Healthcare,Saint Kitts and Nevis,186439,Consulting,16,2023-11-18
+285,Turner-Williams,Technology,Yemen,169555,Enterprise,31,2022-11-30
+286,Hernandez-King,Technology,Monaco,204642,Consulting,18,2022-11-04
+287,Lane-Harvey,Technology,Portugal,322277,Enterprise,35,2022-07-27
+288,Bonilla-Carter,Technology,Sweden,285728,Custom Development,16,2024-02-21
+289,"Garner, Gilmore and Lopez",Manufacturing,Niue,261270,SaaS,10,2022-07-23
+290,Jenkins and Sons,Manufacturing,Greece,426675,Enterprise,18,2023-03-28
+291,Patel-Salazar,Finance,Isle of Man,440736,Consulting,10,2022-11-09
+292,"Cortez, Allen and Murray",Technology,Bosnia and Herzegovina,248349,Custom Development,26,2022-12-13
+293,Dawson Inc,Finance,Turkmenistan,433015,Consulting,18,2023-05-12
+294,Kim Ltd,Finance,Bolivia,140934,Enterprise,35,2022-12-28
+295,"Williams, Lam and Gardner",Finance,Macao,288793,Enterprise,33,2024-08-03
+296,Mccarthy-Nichols,Manufacturing,Martinique,314288,SaaS,18,2025-02-12
+297,"Mejia, Watson and Allen",Retail,Uganda,74826,SaaS,26,2022-11-10
+298,Ibarra-Larsen,Retail,Serbia,132863,Enterprise,26,2022-03-14
+299,Gonzalez Group,Healthcare,Turkey,486876,Consulting,12,2024-05-11
+300,Ferguson-Rodriguez,Retail,Timor-Leste,408250,SaaS,9,2024-08-18
+301,"Hammond, Sosa and Barnett",Manufacturing,Fiji,212604,Custom Development,25,2022-06-21
+302,Garcia LLC,Technology,Slovenia,487423,Enterprise,25,2023-12-29
+303,Stone-Randall,Manufacturing,Cayman Islands,365558,Consulting,6,2023-02-05
+304,Travis Group,Technology,Niger,31639,Consulting,36,2024-12-07
+305,Callahan-Miller,Manufacturing,Qatar,312777,Custom Development,29,2023-11-08
+306,Griffin-Lee,Finance,Montenegro,65970,Custom Development,21,2024-07-01
+307,Murphy-Horton,Finance,Belarus,466716,SaaS,24,2024-05-07
+308,"Harris, Waller and Fitzgerald",Healthcare,Micronesia,434849,Consulting,18,2023-08-03
+309,Griffith LLC,Manufacturing,Lesotho,347525,Consulting,14,2024-01-17
+310,"Miller, Thomas and Gilbert",Retail,Bahrain,40645,Enterprise,10,2024-07-15
+311,Shelton-May,Technology,Syrian Arab Republic,201663,Enterprise,17,2023-04-06
+312,Perez-Adams,Retail,Jordan,59854,SaaS,33,2022-11-20
+313,"Carter, Murphy and Guzman",Technology,Northern Mariana Islands,269866,Enterprise,9,2024-03-03
+314,Robinson-Jordan,Manufacturing,Chad,162106,Enterprise,12,2023-02-17
+315,"Anderson, Miller and Herring",Technology,Panama,82317,Enterprise,16,2022-05-01
+316,"Brown, Chang and Ayers",Technology,Grenada,421481,SaaS,26,2025-01-31
+317,Campbell-Thomas,Technology,United States Virgin Islands,192208,SaaS,23,2023-12-04
+318,"Bailey, Vega and Jackson",Manufacturing,Tonga,126886,SaaS,32,2024-12-29
+319,"Mccann, Adkins and Gonzalez",Retail,Bosnia and Herzegovina,7812,SaaS,35,2024-06-08
+320,Erickson Group,Healthcare,Spain,78243,Consulting,27,2022-04-06
+321,White-Morgan,Technology,Somalia,298086,Enterprise,26,2024-05-31
+322,Valdez Group,Retail,Brazil,196632,Custom Development,25,2024-06-25
+323,Irwin-Bailey,Retail,Mauritius,270729,Consulting,8,2023-04-20
+324,Gomez-Miller,Manufacturing,United Arab Emirates,210894,Consulting,10,2024-12-19
+325,Wright Ltd,Finance,Bouvet Island (Bouvetoya),485462,SaaS,31,2023-11-25
+326,"Ortiz, Robinson and Kerr",Manufacturing,Gibraltar,85453,Enterprise,36,2024-01-21
+327,"Monroe, Miller and Martin",Finance,Mauritania,226700,Custom Development,33,2022-07-21
+328,Lopez Inc,Technology,Qatar,187097,SaaS,25,2022-10-20
+329,"Wagner, Johnson and Johnson",Healthcare,Belize,268797,Consulting,17,2023-03-16
+330,Roman-Walker,Finance,Bulgaria,47285,Enterprise,35,2023-02-03
+331,"Scott, Lopez and Collins",Retail,Swaziland,94035,SaaS,6,2024-04-30
+332,"Richards, Castro and Moore",Finance,Jersey,427948,SaaS,28,2023-10-14
+333,Thompson LLC,Finance,Taiwan,41349,Enterprise,23,2023-01-09
+334,"Jenkins, Jones and Lambert",Healthcare,Hong Kong,309986,Consulting,9,2024-03-16
+335,Smith-Williams,Retail,Japan,95945,SaaS,9,2024-03-22
+336,"Anderson, Castillo and Rogers",Healthcare,Botswana,46295,SaaS,31,2022-09-30
+337,"Stevens, Lucero and Montoya",Healthcare,Australia,31166,Enterprise,13,2024-09-18
+338,Evans and Sons,Healthcare,Tunisia,182147,SaaS,28,2023-01-19
+339,"Sawyer, Parrish and Farmer",Manufacturing,Czech Republic,281019,Custom Development,17,2024-12-11
+340,Travis-Richards,Finance,Luxembourg,304540,Consulting,19,2024-05-15
+341,Alvarado Ltd,Retail,Faroe Islands,393963,SaaS,20,2024-02-19
+342,Bailey Group,Retail,Guadeloupe,404737,Enterprise,8,2022-08-06
+343,Davis and Sons,Manufacturing,Switzerland,63878,Custom Development,21,2024-11-13
+344,Farmer Ltd,Manufacturing,Myanmar,105185,Consulting,34,2023-03-27
+345,Clark Group,Manufacturing,Antarctica (the territory South of 60 deg S),239768,Custom Development,32,2024-08-03
+346,"Gardner, Walter and Flores",Healthcare,Albania,267472,Custom Development,21,2023-11-21
+347,Anderson-Escobar,Manufacturing,Algeria,300447,SaaS,31,2022-11-20
+348,"Conley, Yang and Frank",Manufacturing,Honduras,155837,Custom Development,13,2023-09-06
+349,May-Cox,Healthcare,Sri Lanka,156008,Custom Development,7,2024-08-12
+350,"Weber, Hunt and Montgomery",Healthcare,Niue,176583,Consulting,24,2024-06-11
+351,Patterson and Sons,Retail,Uganda,402388,Custom Development,31,2024-07-25
+352,"Pham, Barker and Ryan",Technology,Ethiopia,57115,Consulting,11,2023-12-04
+353,"Peck, Gibson and Lewis",Finance,Denmark,107918,Custom Development,6,2024-06-02
+354,"Livingston, Kelley and Palmer",Healthcare,India,389144,SaaS,20,2023-10-24
+355,Golden-Frost,Manufacturing,Eritrea,40701,Custom Development,26,2023-03-04
+356,"Juarez, Elliott and Yates",Manufacturing,Liechtenstein,419127,Custom Development,19,2023-11-20
+357,Mitchell Group,Retail,Sudan,283135,SaaS,32,2022-11-27
+358,"Clark, Huynh and Nichols",Technology,Liberia,419685,Enterprise,24,2024-04-11
+359,Potter-Cisneros,Healthcare,Czech Republic,205429,Enterprise,36,2023-07-11
+360,"Barnes, Frey and Russell",Finance,Wallis and Futuna,209730,Consulting,25,2024-09-21
+361,Hartman-Tyler,Healthcare,Micronesia,293587,Consulting,30,2023-09-12
+362,Butler Inc,Manufacturing,Slovenia,368244,SaaS,35,2024-02-12
+363,Pope-Ruiz,Manufacturing,Guatemala,466522,Consulting,21,2023-11-17
+364,"Davis, Frazier and Juarez",Technology,Nigeria,463893,SaaS,9,2023-02-20
+365,"Johnson, May and Williams",Retail,Burkina Faso,292676,Consulting,25,2023-11-23
+366,Jenkins LLC,Healthcare,Holy See (Vatican City State),210335,Consulting,31,2024-12-03
+367,Bird-Dawson,Retail,Macedonia,147022,SaaS,24,2023-12-14
+368,Green-Giles,Technology,Thailand,194504,Consulting,34,2023-12-10
+369,"Lee, Peck and Morgan",Healthcare,Ethiopia,381703,Enterprise,8,2024-08-21
+370,"Owens, Jenkins and Lowe",Manufacturing,Cameroon,31166,SaaS,11,2023-12-06
+371,Sawyer LLC,Healthcare,Zambia,143909,Consulting,20,2024-12-27
+372,Anderson Group,Healthcare,Angola,416446,Consulting,18,2022-08-29
+373,Gonzalez-White,Technology,Hungary,37833,Consulting,20,2023-05-26
+374,Parker PLC,Manufacturing,Martinique,24765,Consulting,28,2022-03-24
+375,Weeks LLC,Manufacturing,Timor-Leste,7340,Consulting,14,2023-04-28
+376,"Fritz, Blackwell and Cain",Finance,Serbia,41824,Enterprise,19,2025-02-06
+377,Cooper Ltd,Manufacturing,Switzerland,493586,Custom Development,6,2024-06-28
+378,Donovan Ltd,Healthcare,Brazil,468807,Enterprise,24,2025-01-18
+379,"Gibson, Cox and Waters",Finance,Switzerland,275751,SaaS,16,2022-10-02
+380,"Alvarez, Robinson and Reed",Healthcare,Algeria,434661,SaaS,13,2023-12-03
+381,Rogers PLC,Retail,Lithuania,309955,Consulting,20,2022-10-23
+382,Chaney and Sons,Retail,Barbados,256654,Enterprise,8,2023-05-21
+383,Ramirez-Brown,Finance,Niue,264326,Consulting,29,2022-07-01
+384,Nelson-Olson,Finance,Cayman Islands,69926,Enterprise,33,2022-03-21
+385,Wilson PLC,Retail,Wallis and Futuna,465633,SaaS,24,2024-04-03
+386,Mann Group,Finance,Brazil,388544,SaaS,9,2022-08-02
+387,Weeks-Phillips,Technology,Gambia,349815,Enterprise,21,2024-05-18
+388,"Moore, Hill and Anderson",Technology,Honduras,349431,Custom Development,17,2022-03-22
+389,Young-Garcia,Retail,Chad,237051,Custom Development,25,2022-10-03
+390,Jones LLC,Retail,Papua New Guinea,477079,SaaS,15,2025-03-10
+391,Martinez Inc,Technology,Serbia,350762,Consulting,34,2022-07-18
+392,Bryan-Atkins,Retail,Libyan Arab Jamahiriya,172809,Consulting,31,2024-06-12
+393,Farrell-Chan,Manufacturing,Dominica,187521,Consulting,36,2024-03-17
+394,"Howell, Mann and Goodwin",Manufacturing,Cameroon,287644,Enterprise,15,2023-10-14
+395,Smith-Johns,Finance,Croatia,137691,Enterprise,9,2024-08-12
+396,Beasley Inc,Finance,Gambia,447014,Enterprise,29,2023-11-24
+397,Rodriguez-Robinson,Technology,Comoros,287045,Enterprise,29,2024-01-16
+398,"Tucker, Guerra and Cervantes",Finance,Ethiopia,292353,Enterprise,36,2023-05-14
+399,"Newman, Juarez and Rios",Finance,French Southern Territories,460461,SaaS,23,2024-12-01
+400,Barnett-Small,Manufacturing,Nauru,374295,Consulting,13,2022-07-13
+401,Moreno-Patterson,Healthcare,British Indian Ocean Territory (Chagos Archipelago),283551,SaaS,6,2024-11-14
+402,Thornton Ltd,Manufacturing,Northern Mariana Islands,152407,Consulting,32,2024-01-30
+403,Adams and Sons,Finance,New Caledonia,265753,Consulting,12,2022-06-04
+404,"Humphrey, Wilson and Hancock",Retail,Greece,373631,Consulting,21,2023-12-01
+405,Jimenez LLC,Technology,Northern Mariana Islands,233462,Custom Development,32,2023-05-09
+406,"Garcia, Chapman and Ramirez",Finance,Latvia,314738,SaaS,34,2024-05-11
+407,Vaughan-Bennett,Technology,Timor-Leste,409410,SaaS,23,2023-07-28
+408,Wilson-Moody,Retail,Italy,208613,Custom Development,19,2024-08-11
+409,"Snyder, Velasquez and Jenkins",Retail,Dominican Republic,220370,Enterprise,13,2024-12-02
+410,"Dalton, Giles and Duncan",Finance,Finland,422580,SaaS,22,2022-05-17
+411,Griffith Inc,Technology,Nepal,11795,Custom Development,32,2022-11-14
+412,Chang-Santos,Manufacturing,Cote d'Ivoire,454272,Enterprise,12,2024-10-29
+413,Wood PLC,Manufacturing,Korea,392730,Consulting,12,2025-03-11
+414,"Cunningham, Lane and Joseph",Finance,Saudi Arabia,333890,Enterprise,11,2023-09-19
+415,Wagner Inc,Manufacturing,Thailand,269223,Custom Development,10,2022-09-13
+416,Adams Group,Retail,French Southern Territories,101772,Consulting,20,2022-06-01
+417,"Schneider, Williams and Barton",Healthcare,Philippines,163134,Custom Development,29,2024-01-21
+418,Henderson PLC,Finance,El Salvador,133170,Consulting,33,2023-03-09
+419,Cooper and Sons,Technology,Taiwan,361941,SaaS,20,2024-07-08
+420,"Little, Lewis and Hayes",Finance,Romania,67887,Custom Development,10,2022-03-16
+421,Reed Ltd,Finance,Somalia,202217,SaaS,13,2024-02-09
+422,Thornton LLC,Healthcare,Mauritania,264804,Consulting,17,2022-06-15
+423,Fowler-Woods,Healthcare,Albania,407205,Consulting,17,2024-06-27
+424,Tran and Sons,Technology,Solomon Islands,306666,SaaS,13,2022-04-22
+425,Gregory-Gilmore,Retail,Austria,352862,Consulting,16,2023-03-27
+426,"Brooks, Eaton and Benson",Retail,French Southern Territories,274121,Custom Development,19,2024-05-31
+427,Kelly Ltd,Finance,Uganda,112971,Enterprise,16,2022-09-20
+428,"Velasquez, Gutierrez and Jarvis",Technology,Palau,435784,Enterprise,10,2023-05-04
+429,Miller Inc,Manufacturing,New Zealand,215750,Custom Development,36,2023-12-04
+430,Welch-Blankenship,Finance,Albania,359456,Consulting,8,2022-12-06
+431,Davis Group,Retail,Bhutan,253936,Custom Development,36,2025-01-26
+432,Sutton-Valencia,Retail,Norfolk Island,351547,Consulting,19,2022-07-27
+433,Bartlett and Sons,Finance,Greece,236002,Enterprise,34,2022-12-14
+434,Allen PLC,Retail,Uzbekistan,36282,Consulting,26,2024-11-01
+435,"Hess, Barnes and Sellers",Finance,Jordan,283181,SaaS,29,2024-12-30
+436,"Parker, Blanchard and Gibson",Finance,Turks and Caicos Islands,419169,Consulting,11,2022-12-20
+437,Wilson Ltd,Finance,Bouvet Island (Bouvetoya),167412,Enterprise,35,2022-09-28
+438,Knight-Gonzalez,Technology,Romania,256065,SaaS,12,2023-05-01
+439,Kelly LLC,Finance,Antigua and Barbuda,229253,Consulting,31,2023-02-14
+440,Burke LLC,Manufacturing,Solomon Islands,404403,Enterprise,34,2024-04-01
+441,Blankenship-Joyce,Healthcare,British Virgin Islands,488124,Custom Development,6,2023-05-25
+442,Copeland Group,Retail,Gambia,174168,Enterprise,29,2023-11-11
+443,Lowe-Cox,Technology,Syrian Arab Republic,296554,Enterprise,33,2022-08-05
+444,Wilson Group,Finance,Paraguay,197609,Enterprise,22,2024-03-08
+445,Moore-Hill,Technology,Iraq,484360,Enterprise,14,2022-10-11
+446,"Wood, Smith and Freeman",Finance,Bulgaria,247751,Enterprise,36,2022-11-09
+447,Glover and Sons,Finance,United Kingdom,201667,Consulting,28,2023-08-03
+448,"Randall, Gonzalez and Lee",Finance,Egypt,182944,Consulting,25,2024-12-23
+449,Baxter-Rivera,Technology,Aruba,436614,Custom Development,8,2024-05-27
+450,Reyes-Dean,Retail,Ecuador,317777,Consulting,30,2024-05-25
+451,Patel PLC,Technology,Indonesia,267502,Custom Development,34,2022-04-02
+452,"Patel, Boyle and French",Healthcare,Rwanda,224091,Enterprise,31,2025-02-14
+453,"Schroeder, Adams and Willis",Retail,Grenada,171194,Custom Development,34,2023-02-17
+454,Williamson Group,Healthcare,Italy,292288,Custom Development,31,2024-12-19
+455,Harris and Sons,Technology,Austria,18965,SaaS,25,2024-10-12
+456,Padilla-Medina,Manufacturing,Bolivia,44587,Custom Development,17,2023-08-27
+457,Gibbs PLC,Finance,Wallis and Futuna,305343,SaaS,35,2022-04-11
+458,"Bradshaw, Lee and Garcia",Technology,French Guiana,32745,Consulting,21,2022-07-02
+459,"Zimmerman, Jones and Ellis",Finance,Guyana,129612,Consulting,10,2023-06-13
+460,Smith and Sons,Manufacturing,Turkmenistan,335961,Consulting,19,2023-03-18
+461,"Williams, Wilson and Shelton",Technology,Uganda,296786,Consulting,18,2022-12-19
+462,"Guzman, Alvarez and Maynard",Healthcare,United States Minor Outlying Islands,432769,Consulting,14,2022-10-30
+463,Lopez-Rivera,Healthcare,Djibouti,462866,Enterprise,31,2022-05-23
+464,"Kidd, Bowen and Gray",Healthcare,Latvia,88994,Custom Development,36,2025-01-21
+465,Singleton-Vance,Technology,Hong Kong,197702,Enterprise,34,2024-08-21
+466,Brown-Molina,Retail,Singapore,78551,Enterprise,19,2023-05-07
+467,"Garcia, Lee and Smith",Healthcare,Slovakia (Slovak Republic),122172,Custom Development,6,2023-03-07
+468,"Smith, King and Smith",Retail,Belarus,475365,SaaS,13,2024-10-04
+469,Rice-Shelton,Healthcare,Oman,473513,Consulting,29,2023-05-03
+470,"Faulkner, Jackson and Johnson",Retail,Equatorial Guinea,432971,Consulting,17,2023-02-16
+471,Gonzales LLC,Finance,Niger,476919,Enterprise,27,2024-07-11
+472,"Carter, Martinez and Cruz",Technology,Israel,144688,SaaS,36,2022-12-22
+473,Brown Group,Retail,Lao People's Democratic Republic,477443,Consulting,7,2023-12-23
+474,"Rodriguez, Parker and Delgado",Retail,Aruba,416011,Custom Development,30,2023-11-03
+475,Hunter-Thompson,Technology,Indonesia,362119,Custom Development,19,2024-05-12
+476,Johnson-Hogan,Healthcare,Guernsey,386335,Custom Development,30,2022-09-11
+477,Olson-Nolan,Retail,Qatar,24852,Enterprise,21,2024-07-03
+478,Li-King,Manufacturing,Faroe Islands,153851,Consulting,21,2023-02-19
+479,Duncan Inc,Healthcare,Armenia,279185,Enterprise,8,2024-06-21
+480,"Walter, Frazier and Walton",Finance,Mexico,464024,Custom Development,22,2022-08-12
+481,Kelly-Miller,Healthcare,Estonia,139996,Enterprise,13,2024-12-30
+482,Byrd and Sons,Healthcare,Cambodia,184490,Consulting,12,2024-03-12
+483,Anderson Group,Retail,Argentina,348746,SaaS,7,2022-09-28
+484,Ellis PLC,Retail,Indonesia,368140,Enterprise,15,2022-11-11
+485,Shannon and Sons,Manufacturing,Lao People's Democratic Republic,172771,Consulting,22,2023-07-15
+486,Hardin PLC,Retail,Solomon Islands,247437,Custom Development,32,2023-04-11
+487,"Bowen, Herrera and King",Healthcare,Lesotho,332735,SaaS,6,2023-08-22
+488,Thompson PLC,Retail,Kiribati,401356,Consulting,36,2024-02-20
+489,"Williams, Carter and Sanchez",Manufacturing,United States Virgin Islands,81256,Enterprise,12,2023-06-07
+490,"Smith, Thompson and Torres",Healthcare,Korea,162360,SaaS,14,2023-02-16
+491,Walker LLC,Healthcare,Gambia,254143,Consulting,23,2023-07-26
+492,Powell Inc,Technology,Slovenia,46118,SaaS,24,2022-03-24
+493,Ryan Ltd,Healthcare,South Georgia and the South Sandwich Islands,28360,Consulting,15,2024-02-04
+494,"Stephenson, Friedman and Jacobs",Manufacturing,Israel,174258,Custom Development,9,2023-06-08
+495,Castaneda-Coleman,Retail,Iceland,285346,Enterprise,21,2023-06-17
+496,"Johnson, Brown and Taylor",Healthcare,Guadeloupe,442151,Consulting,29,2023-01-12
+497,Hall-Wilson,Healthcare,Somalia,470419,SaaS,35,2025-01-15
+498,Anderson and Sons,Finance,Senegal,489342,Custom Development,19,2023-04-21
+499,"Waters, Alvarado and Sullivan",Manufacturing,Libyan Arab Jamahiriya,86312,Consulting,14,2024-08-19
+500,"Young, Armstrong and Taylor",Finance,Bhutan,121820,SaaS,32,2024-05-17

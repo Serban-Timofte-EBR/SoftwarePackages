@@ -1,0 +1,3 @@
+Nume;Departament;Luna nasterii
+Popescu Gigel;Contabilitate;Decembrie
+Ionescu Maria;IT;Iulie

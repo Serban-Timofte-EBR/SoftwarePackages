@@ -1,0 +1,16 @@
+CompanyAnalysis/venv/
+CompanyAnalysis/.idea/
+CompanyAnalysis/.vscode/
+CompanyAnalysis/.pytest_cache/
+CompanyAnalysis/.mypy_cache/
+CompanyAnalysis/.coverage
+CompanyAnalysis/.DS_Store
+CompanyAnalysis/*.log
+CompanyAnalysis/*.pyc
+CompanyAnalysis/*.pyo
+CompanyAnalysis/*.pyd
+CompanyAnalysis/__pycache__/
+CompanyAnalysis/*/__pycache__/
+CompanyAnalysis/*/*/__pycache__/
+CompanyAnalysis/*/*/*/__pycache__/
+CompanyAnalysis/*/*/*/*/__pycache__/
