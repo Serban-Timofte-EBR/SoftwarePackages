@@ -1,0 +1,29 @@
+====================================
+             COMPANY REPORT         
+====================================
+
+Business Insights
+-----------------
+Total Clients: 500
+Avg Contract Value (EUR): 250212.992
+Avg Employee Performance: 6.7239792097924305
+Avg Revenue Growth (%): 49.91327330060077
+Industry-wise Avg Contract Value: {'Finance': 250107.91262135922, 'Healthcare': 260868.31775700935, 'Manufacturing': 232139.58653846153, 'Retail': 253901.62857142856, 'Technology': 254694.85185185185}
+Yearly Revenue Trend: {2008: 26433685, 2009: 35216980, 2010: 30794318, 2011: 31759335, 2012: 28332245, 2013: 32805876, 2014: 30723387, 2015: 36966276, 2016: 31775634, 2017: 38537029, 2018: 39707395, 2019: 30927227, 2020: 36076375, 2021: 26781278, 2022: 43521952, 2023: 12095924}
+
+Predicted Revenue for Next 12 Months
+-----------------------------------
+Month 185: 3,033,568.37 EUR
+Month 186: 3,036,402.15 EUR
+Month 187: 3,039,235.94 EUR
+Month 188: 3,042,069.72 EUR
+Month 189: 3,044,903.50 EUR
+Month 190: 3,047,737.28 EUR
+Month 191: 3,050,571.07 EUR
+Month 192: 3,053,404.85 EUR
+Month 193: 3,056,238.63 EUR
+Month 194: 3,059,072.42 EUR
+Month 195: 3,061,906.20 EUR
+Month 196: 3,064,739.98 EUR
+
+Report generated successfully.

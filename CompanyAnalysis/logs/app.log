@@ -1,0 +1,162 @@
+2025-03-15 16:03:30 [INFO] - Starting Company Analysis at 2025-03-15 16:03:30
+2025-03-15 16:03:30 [INFO] - Loading datasets from /Users/serbantimofte/Documents/ASE/SoftwarePackages/CompanyAnalysis/data/
+2025-03-15 16:03:30 [INFO] - Datasets successfully loaded.
+2025-03-15 16:03:30 [INFO] - Cleaning dataset: Clients
+2025-03-15 16:03:30 [INFO] - Missing values in Clients: Before=0, After=0
+2025-03-15 16:03:30 [INFO] - Cleaning dataset: Employees
+2025-03-15 16:03:30 [INFO] - Missing values in Employees: Before=0, After=0
+2025-03-15 16:03:30 [INFO] - Cleaning dataset: Sales
+2025-03-15 16:03:30 [INFO] - Missing values in Sales: Before=0, After=0
+2025-03-15 16:03:30 [INFO] - Cleaning dataset: Projects
+2025-03-15 16:03:30 [INFO] - Missing values in Projects: Before=0, After=0
+2025-03-15 16:03:30 [INFO] - Data cleaning complete.
+2025-03-15 16:03:30 [INFO] - Generating business insights.
+2025-03-15 16:03:30 [INFO] - Business Insights: {'Total Clients': 500, 'Avg Contract Value (€)': np.float64(250212.992), 'Avg Employee Performance': np.float64(6.7239792097924305), 'Avg Revenue Growth (%)': np.float64(49.91327330060077)}
+2025-03-15 16:03:30 [INFO] - Final Insights: {'Total Clients': 500, 'Avg Contract Value (€)': np.float64(250212.992), 'Avg Employee Performance': np.float64(6.7239792097924305), 'Avg Revenue Growth (%)': np.float64(49.91327330060077)}
+2025-03-15 16:03:30 [INFO] - Generating revenue trend visualization.
+2025-03-15 16:03:52 [INFO] - Visualization generated successfully.
+2025-03-15 16:03:52 [INFO] - Starting revenue prediction.
+2025-03-15 16:03:52 [INFO] - Prediction successful.
+2025-03-15 16:03:52 [INFO] - Predicted Revenue for Next 12 Months: [3033568.37021152 3036402.15297752 3039235.93574353 3042069.71850953
+ 3044903.50127554 3047737.28404155 3050571.06680755 3053404.84957356
+ 3056238.63233956 3059072.41510557 3061906.19787157 3064739.98063758]
+2025-03-15 16:05:04 [INFO] - Starting Company Analysis at 2025-03-15 16:05:04
+2025-03-15 16:05:04 [INFO] - Loading datasets from /Users/serbantimofte/Documents/ASE/SoftwarePackages/CompanyAnalysis/data/
+2025-03-15 16:05:04 [INFO] - Datasets successfully loaded.
+2025-03-15 16:05:04 [INFO] - Cleaning dataset: Clients
+2025-03-15 16:05:04 [INFO] - Missing values in Clients: Before=0, After=0
+2025-03-15 16:05:04 [INFO] - Cleaning dataset: Employees
+2025-03-15 16:05:04 [INFO] - Missing values in Employees: Before=0, After=0
+2025-03-15 16:05:04 [INFO] - Cleaning dataset: Sales
+2025-03-15 16:05:04 [INFO] - Missing values in Sales: Before=0, After=0
+2025-03-15 16:05:04 [INFO] - Cleaning dataset: Projects
+2025-03-15 16:05:04 [INFO] - Missing values in Projects: Before=0, After=0
+2025-03-15 16:05:04 [INFO] - Data cleaning complete.
+2025-03-15 16:05:04 [INFO] - Generating business insights.
+2025-03-15 16:05:04 [INFO] - Business Insights: {'Total Clients': 500, 'Avg Contract Value (€)': np.float64(250212.992), 'Avg Employee Performance': np.float64(6.7239792097924305), 'Avg Revenue Growth (%)': np.float64(49.91327330060077)}
+2025-03-15 16:05:04 [INFO] - Final Insights: {'Total Clients': 500, 'Avg Contract Value (€)': np.float64(250212.992), 'Avg Employee Performance': np.float64(6.7239792097924305), 'Avg Revenue Growth (%)': np.float64(49.91327330060077)}
+2025-03-15 16:05:04 [INFO] - Generating improved revenue trend visualization.
+2025-03-15 16:08:54 [INFO] - Starting Company Analysis at 2025-03-15 16:08:54
+2025-03-15 16:08:54 [INFO] - Loading datasets from /Users/serbantimofte/Documents/ASE/SoftwarePackages/CompanyAnalysis/data/
+2025-03-15 16:08:54 [INFO] - Datasets successfully loaded.
+2025-03-15 16:08:54 [INFO] - Cleaning dataset: Clients
+2025-03-15 16:08:54 [INFO] - Missing values in Clients: Before=0, After=0
+2025-03-15 16:08:54 [INFO] - Cleaning dataset: Employees
+2025-03-15 16:08:54 [INFO] - Missing values in Employees: Before=0, After=0
+2025-03-15 16:08:54 [INFO] - Cleaning dataset: Sales
+2025-03-15 16:08:54 [INFO] - Missing values in Sales: Before=0, After=0
+2025-03-15 16:08:54 [INFO] - Cleaning dataset: Projects
+2025-03-15 16:08:54 [INFO] - Missing values in Projects: Before=0, After=0
+2025-03-15 16:08:54 [INFO] - Data cleaning complete.
+2025-03-15 16:08:54 [INFO] - Generating business insights.
+2025-03-15 16:08:54 [INFO] - Business Insights: {'Total Clients': 500, 'Avg Contract Value (€)': np.float64(250212.992), 'Avg Employee Performance': np.float64(6.7239792097924305), 'Avg Revenue Growth (%)': np.float64(49.91327330060077)}
+2025-03-15 16:08:54 [INFO] - Final Insights: {'Total Clients': 500, 'Avg Contract Value (€)': np.float64(250212.992), 'Avg Employee Performance': np.float64(6.7239792097924305), 'Avg Revenue Growth (%)': np.float64(49.91327330060077)}
+2025-03-15 16:08:54 [INFO] - Generating improved revenue trend visualization.
+2025-03-15 16:08:57 [INFO] - Improved visualization generated successfully.
+2025-03-15 16:08:57 [INFO] - Starting revenue prediction.
+2025-03-15 16:08:57 [INFO] - Prediction successful.
+2025-03-15 16:08:57 [INFO] - Predicted Revenue for Next 12 Months: [3033568.37021152 3036402.15297752 3039235.93574353 3042069.71850953
+ 3044903.50127554 3047737.28404155 3050571.06680755 3053404.84957356
+ 3056238.63233956 3059072.41510557 3061906.19787157 3064739.98063758]
+2025-03-15 16:08:57 [INFO] - Generating report.txt...
+2025-03-15 16:08:57 [INFO] - Report successfully generated at reports/report.txt
+2025-03-15 16:13:09 [INFO] - Starting Company Analysis at 2025-03-15 16:13:09
+2025-03-15 16:13:09 [INFO] - Loading datasets from /Users/serbantimofte/Documents/ASE/SoftwarePackages/CompanyAnalysis/data/
+2025-03-15 16:13:09 [INFO] - Datasets successfully loaded.
+2025-03-15 16:13:09 [INFO] - Cleaning dataset: Clients
+2025-03-15 16:13:09 [INFO] - Missing values in Clients: Before=0, After=0
+2025-03-15 16:13:09 [INFO] - Cleaning dataset: Employees
+2025-03-15 16:13:09 [INFO] - Missing values in Employees: Before=0, After=0
+2025-03-15 16:13:09 [INFO] - Cleaning dataset: Sales
+2025-03-15 16:13:09 [INFO] - Missing values in Sales: Before=0, After=0
+2025-03-15 16:13:09 [INFO] - Cleaning dataset: Projects
+2025-03-15 16:13:09 [INFO] - Missing values in Projects: Before=0, After=0
+2025-03-15 16:13:09 [INFO] - Data cleaning complete.
+2025-03-15 16:13:09 [INFO] - Generating business insights.
+2025-03-15 16:13:09 [INFO] - Business Insights: {'Total Clients': 500, 'Avg Contract Value (EUR)': np.float64(250212.992), 'Avg Employee Performance': np.float64(6.7239792097924305), 'Avg Revenue Growth (%)': np.float64(49.91327330060077), 'Industry-wise Avg Contract Value': {'Finance': 250107.91262135922, 'Healthcare': 260868.31775700935, 'Manufacturing': 232139.58653846153, 'Retail': 253901.62857142856, 'Technology': 254694.85185185185}, 'Yearly Revenue Trend': {2008: 26433685, 2009: 35216980, 2010: 30794318, 2011: 31759335, 2012: 28332245, 2013: 32805876, 2014: 30723387, 2015: 36966276, 2016: 31775634, 2017: 38537029, 2018: 39707395, 2019: 30927227, 2020: 36076375, 2021: 26781278, 2022: 43521952, 2023: 12095924}}
+2025-03-15 16:13:09 [INFO] - Final Insights: {'Total Clients': 500, 'Avg Contract Value (EUR)': np.float64(250212.992), 'Avg Employee Performance': np.float64(6.7239792097924305), 'Avg Revenue Growth (%)': np.float64(49.91327330060077), 'Industry-wise Avg Contract Value': {'Finance': 250107.91262135922, 'Healthcare': 260868.31775700935, 'Manufacturing': 232139.58653846153, 'Retail': 253901.62857142856, 'Technology': 254694.85185185185}, 'Yearly Revenue Trend': {2008: 26433685, 2009: 35216980, 2010: 30794318, 2011: 31759335, 2012: 28332245, 2013: 32805876, 2014: 30723387, 2015: 36966276, 2016: 31775634, 2017: 38537029, 2018: 39707395, 2019: 30927227, 2020: 36076375, 2021: 26781278, 2022: 43521952, 2023: 12095924}}
+2025-03-15 16:13:09 [INFO] - Generating improved revenue trend visualization.
+2025-03-15 16:13:11 [INFO] - Improved visualization generated successfully.
+2025-03-15 16:13:11 [INFO] - Starting revenue prediction.
+2025-03-15 16:13:11 [INFO] - Prediction successful.
+2025-03-15 16:13:11 [INFO] - Statistical Model Summary:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                Revenue   R-squared:                       0.013
+Model:                            OLS   Adj. R-squared:                  0.007
+Method:                 Least Squares   F-statistic:                     2.325
+Date:                Sat, 15 Mar 2025   Prob (F-statistic):              0.129
+Time:                        16:13:11   Log-Likelihood:                -2872.9
+No. Observations:                 185   AIC:                             5750.
+Df Residuals:                     183   BIC:                             5756.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const       2.509e+06   1.98e+05     12.693      0.000    2.12e+06     2.9e+06
+Month_Num   2833.7828   1858.435      1.525      0.129    -832.932    6500.498
+==============================================================================
+Omnibus:                      124.372   Durbin-Watson:                   1.992
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               12.546
+Skew:                          -0.067   Prob(JB):                      0.00189
+Kurtosis:                       1.731   Cond. No.                         212.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+2025-03-15 16:13:11 [INFO] - Predicted Revenue for Next 12 Months: [3033568.37021152 3036402.15297752 3039235.93574353 3042069.71850953
+ 3044903.50127554 3047737.28404155 3050571.06680755 3053404.84957356
+ 3056238.63233956 3059072.41510557 3061906.19787157 3064739.98063758]
+2025-03-15 16:13:11 [INFO] - Generating report.txt...
+2025-03-15 16:13:11 [INFO] - Report successfully generated at reports/report.txt
+2025-03-15 16:16:28 [INFO] - Starting Company Analysis at 2025-03-15 16:16:28
+2025-03-15 16:16:28 [INFO] - Loading datasets from /Users/serbantimofte/Documents/ASE/SoftwarePackages/CompanyAnalysis/data/
+2025-03-15 16:16:28 [INFO] - Datasets successfully loaded.
+2025-03-15 16:16:28 [INFO] - Cleaning dataset: Clients
+2025-03-15 16:16:28 [INFO] - Missing values in Clients: Before=0, After=0
+2025-03-15 16:16:28 [INFO] - Cleaning dataset: Employees
+2025-03-15 16:16:28 [INFO] - Missing values in Employees: Before=0, After=0
+2025-03-15 16:16:28 [INFO] - Cleaning dataset: Sales
+2025-03-15 16:16:28 [INFO] - Missing values in Sales: Before=0, After=0
+2025-03-15 16:16:28 [INFO] - Cleaning dataset: Projects
+2025-03-15 16:16:28 [INFO] - Missing values in Projects: Before=0, After=0
+2025-03-15 16:16:28 [INFO] - Data cleaning complete.
+2025-03-15 16:16:28 [INFO] - Generating business insights.
+2025-03-15 16:16:28 [INFO] - Business Insights: {'Total Clients': 500, 'Avg Contract Value (EUR)': np.float64(250212.992), 'Avg Employee Performance': np.float64(6.7239792097924305), 'Avg Revenue Growth (%)': np.float64(49.91327330060077), 'Industry-wise Avg Contract Value': {'Finance': 250107.91262135922, 'Healthcare': 260868.31775700935, 'Manufacturing': 232139.58653846153, 'Retail': 253901.62857142856, 'Technology': 254694.85185185185}, 'Yearly Revenue Trend': {2008: 26433685, 2009: 35216980, 2010: 30794318, 2011: 31759335, 2012: 28332245, 2013: 32805876, 2014: 30723387, 2015: 36966276, 2016: 31775634, 2017: 38537029, 2018: 39707395, 2019: 30927227, 2020: 36076375, 2021: 26781278, 2022: 43521952, 2023: 12095924}}
+2025-03-15 16:16:28 [INFO] - Final Insights: {'Total Clients': 500, 'Avg Contract Value (EUR)': np.float64(250212.992), 'Avg Employee Performance': np.float64(6.7239792097924305), 'Avg Revenue Growth (%)': np.float64(49.91327330060077), 'Industry-wise Avg Contract Value': {'Finance': 250107.91262135922, 'Healthcare': 260868.31775700935, 'Manufacturing': 232139.58653846153, 'Retail': 253901.62857142856, 'Technology': 254694.85185185185}, 'Yearly Revenue Trend': {2008: 26433685, 2009: 35216980, 2010: 30794318, 2011: 31759335, 2012: 28332245, 2013: 32805876, 2014: 30723387, 2015: 36966276, 2016: 31775634, 2017: 38537029, 2018: 39707395, 2019: 30927227, 2020: 36076375, 2021: 26781278, 2022: 43521952, 2023: 12095924}}
+2025-03-15 16:16:28 [INFO] - Generating improved revenue trend visualization.
+2025-03-15 16:16:31 [INFO] - Improved visualization generated successfully.
+2025-03-15 16:16:31 [INFO] - Starting revenue prediction.
+2025-03-15 16:16:31 [INFO] - Prediction successful.
+2025-03-15 16:16:31 [INFO] - Statistical Model Summary:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                Revenue   R-squared:                       0.013
+Model:                            OLS   Adj. R-squared:                  0.007
+Method:                 Least Squares   F-statistic:                     2.325
+Date:                Sat, 15 Mar 2025   Prob (F-statistic):              0.129
+Time:                        16:16:31   Log-Likelihood:                -2872.9
+No. Observations:                 185   AIC:                             5750.
+Df Residuals:                     183   BIC:                             5756.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const       2.509e+06   1.98e+05     12.693      0.000    2.12e+06     2.9e+06
+Month_Num   2833.7828   1858.435      1.525      0.129    -832.932    6500.498
+==============================================================================
+Omnibus:                      124.372   Durbin-Watson:                   1.992
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               12.546
+Skew:                          -0.067   Prob(JB):                      0.00189
+Kurtosis:                       1.731   Cond. No.                         212.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+2025-03-15 16:16:31 [INFO] - Predicted Revenue for Next 12 Months: [3033568.37021152 3036402.15297752 3039235.93574353 3042069.71850953
+ 3044903.50127554 3047737.28404155 3050571.06680755 3053404.84957356
+ 3056238.63233956 3059072.41510557 3061906.19787157 3064739.98063758]
+2025-03-15 16:16:31 [INFO] - Generating report.txt...
+2025-03-15 16:16:31 [INFO] - Report successfully generated at reports/report.txt
