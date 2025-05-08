@@ -23,6 +23,12 @@ def main():
     logger.info("Predicted Revenue for Next 12 Months: %s", predicted_revenue)
     
     generate_report(insights, predicted_revenue, future_months)
+    
+    # Save preprocessed data for Streamlit use
+    clients.to_csv("output/clients.csv", index=False)
+    employees.to_csv("output/employees.csv", index=False)
+    sales.to_csv("output/sales.csv", index=False)
+    projects.to_csv("output/projects.csv", index=False)
 
 if __name__ == "__main__":
     main()
