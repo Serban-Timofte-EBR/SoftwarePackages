@@ -1,0 +1,107 @@
+Exerciţiul 15: Un comerciant dorește să prognozeze vânzările de băuturi răcoritoare în unul din punctele sale de vânzare. Pentru aceasta a notat vânzările din primele douăzeci și cinci de zile ale lunii iunie, precum și temperaturile înregistrate în aceste zile. Se cere să se determine dacă există corelație semnificativă între vânzările de răcoritoare și temperatură și să se estimeze vâzările din ziua de 26 iunie, dacă temparatura prognozată este de 32 grade. Datele să găsesc în fișierul “racoritoate.txt”.
+*Analiza de regresie;
+DATA racoritoare;
+	INFILE "/home/nume.prenume/racoritoare.txt";
+	INPUT Data: MMDDYY. Vanzari Temperatura;
+RUN;
+PROC PRINT data=racoritoare;
+	FORMAT data DDMMYY.;
+RUN; 
+PROC CORR  data=racoritoare;
+	VAR Temperatura;
+	WITH Vanzari;
+	TITLE "Corelatia intre vanzarile de racoritoare";
+RUN;
+PROC REG data=racoritoare;
+	MODEL Vanzari=Temperatura;
+	PLOT Vanzari*Temperatura;
+	TITLE "Rezultatele analizei de regresie";
+RUN;
+
+----------------------------
+
+1. Importul date
+
+DATA racoritoare;
+	INFILE "/home/nume.prenume/racoritoare.txt";
+	INPUT Data: MMDDYY. Vanzari Temperatura;
+RUN;
+
+	•	Creează setul de date racoritoare.
+	•	Citește fișierul racoritoare.txt cu trei coloane: Data, Vanzari, Temperatura.
+	•	Data este interpretată în format MM/DD/YYYY.
+
+2. Afișarea datelor formatate 
+
+PROC PRINT data=racoritoare;
+	FORMAT data DDMMYY.;
+RUN;
+
+	•	Afișează conținutul tabelului.
+	•	Formatează data în stil european (DD/MM/YYYY).
+
+3. Analiza corelației:
+
+PROC CORR data=racoritoare;
+	VAR Temperatura;
+	WITH Vanzari;
+	TITLE "Corelatia intre vanzarile de racoritoare";
+RUN;
+
+	•	Analizează corelația dintre Vanzari și Temperatura.
+	•	Corelația este o măsură statistică care arată cât de mult variază două variabile împreună.
+	•	Verifică dacă există o relație lineară între ele.
+
+4.	Analiza de regresie:
+
+PROC REG data=racoritoare;
+	MODEL Vanzari=Temperatura;
+	PLOT Vanzari*Temperatura;
+	TITLE "Rezultatele analizei de regresie";
+RUN;
+
+	•	Construiește un model de regresie liniară: Vanzari în funcție de Temperatura.
+	•	Generează un grafic al relației dintre cele două variabile.
+	•	Furnizează coeficienți, eroare standard, R² etc.
+
+Grafic Fit Diagnostics for Vanzari
+
+	Set de diagrame pentru a verifica presupunerile modelului de regresie.
+
+	Cum se interpretează:
+		•	Residual vs. Predicted Value: Reziduurile sunt distribuite aleator – bine.
+		•	RStudent vs. Predicted / Leverage: Nu există puncte cu influență mare (nu depășesc valorile critice).
+		•	QQ Plot (Quantile): Punctele aproape pe linie → reziduurile sunt aproape normale.
+		•	Histogramă Residual: Confirmă aproximativ normalitatea erorilor.
+		•	Cooks D vs. Observation: Nu există valori mari → niciun punct nu influențează semnificativ modelul.
+		•	Residual vs. Fit-Mean: Confirmă distribuția aleatorie a erorilor.
+		•	Vanzari vs. Predicted: Valorile prezise sunt apropiate de cele reale → modelul are precizie bună.
+
+Grafic Residuals for Vanzari
+
+	Afișează reziduurile în funcție de temperatură.
+
+	Cum se interpretează:
+		•	Nu se observă un tipar clar (ex: curbă) → presupunerea de linearitate e respectată.
+		•	Majoritatea reziduurilor sunt aproape de zero → erori mici, modelul prezice bine.
+		•	Nu apar outlieri majori.
+
+Grafic Fit Plot for Vanzari
+
+	Graficul regresiei cu benzi de încredere (95%) și predicție (95%).
+
+	Cum se interpretează:
+		•	Linia albastră: valorile prezise ale Vanzari.
+		•	Banda albastră opacă: interval de încredere pentru media prezisă.
+		•	Linii punctate: interval de predicție – variația maximă a unei observații individuale.
+		•	Punctele sunt apropiate de linia de regresie → relație liniară clară și consistentă.
+
+Grafic Rezultatele analizei de regresie
+
+	Graficul principal care arată relația dintre Temperatura și Vanzari și ecuația regresiei.
+
+	Cum se interpretează:
+		•	Ecuația: Vanzari = 3.7155 + 2.9074 * Temperatura
+		•	Panta pozitivă = 2.91 → vânzările cresc odată cu temperatura.
+		•	R-Square = 0.9007 → 90% din variația vânzărilor este explicată de temperatură → model excelent.
+		•	RMSE = 3.42 → eroare medie mică → model de încredere.

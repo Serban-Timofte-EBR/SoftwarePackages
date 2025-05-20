@@ -1,0 +1,56 @@
+Exerciţiul 16: Pornind de la datele de la exercițiul 15, comerciantul intenționează să afle dacă vânzările de băuturi răcoritoare din acea locație (L1) diferă semnificativ față de vânzările înregistrate în aceeași perioadă în alte două locații pe care acesta le deține (L2 și L3). Se va folosi fișierul “locatii.txt” ce conține două coloane care memorează vânzările și locația. 
+*Analiza dispersionala;
+DATA locatii;
+	INFILE "/home/nume.prenume/locatii.txt";
+	INPUT Vanzari Locatie$;
+RUN; 
+
+	•	Creează un set de date numit locatii.
+	•	Importă două coloane din fișierul locatii.txt:
+	•	Vanzari = vânzările de răcoritoare
+	•	Locatie$ = locația de unde provin vânzările (L1, L2, L3)
+
+PROC ANOVA DATA=locatii;
+	CLASS Locatie;
+	MODEL Vanzari = Locatie;
+	MEANS Locatie / SCHEFFE;
+	TITLE "Vanzarile de racoritoare in cele trei locatii";
+RUN;
+
+	•	Rulează o analiză ANOVA unifactorială, comparând vânzările între cele 3 locații (Locatie).
+	•	CLASS Locatie; → indică faptul că Locatie este o variabilă categorică.
+	•	MODEL Vanzari = Locatie; → modelează vânzările ca funcție de locație.
+	•	MEANS Locatie / SCHEFFE; → efectuează un test post-hoc Scheffé pentru a vedea care locații diferă semnificativ.
+
+1. Distribution of Vanzari (ANOVA + F-statistic)
+
+    Ce face:
+        Boxplot + rezultat ANOVA pentru a compara vânzarile intre cele 3 locatii (L1, L2, L3).
+    Cum se interpreteaza:
+        • F = 4.07, p = 0.0211 → există o diferentă semnificativă statistic între locatii la nivel de 5%.
+        • Mediana si distributia sunt vizibil diferite, în special L3 are vânzări mai mari.
+        • Cercurile indică outlieri (valori anormal de mici în L1 si L2).
+
+2. Distribution of Vanzari (Boxplot simplu)
+
+    Ce face:
+        Reprezentare vizuală (boxplot) a distributiei vânzărilor pe fiecare locatie.
+    Cum se interpretează:
+        • L3 are cele mai mari vânzări în medie.
+        • L1 are mediană si valori mai joase fată de celelalte.
+        • Variabilitatea este mai mare În L2.
+        • Confirmă vizual diferentele observate în testul ANOVA.
+
+3. Scheffé Test – Comparare medii
+
+    Ce face:
+        Test post-hoc Scheffé pentru a verifica care locații sunt semnificativ diferite între ele.
+    Cum se interpretează:
+        •	L3 (92.24) este semnificativ mai mare decât L1 (82.68), deoarece barele nu se suprapun (diferență > 8.89).
+        •	Diferența L2–L1 și L3–L2 este sub pragul de semnificație ⇒ nu sunt semnificativ diferite.
+        •	Se confirmă că L3 are vânzări semnificativ mai mari decât L1.
+
+	•	Există o diferență semnificativă statistic între locații (p < 0.05).
+	•	Locația L3 are vânzări semnificativ mai mari decât L1.
+	•	Testul Scheffé identifică unde exact se află diferențele semnificative.
+	•	Recomandare practică: L3 este cea mai performantă locație pentru vânzări.

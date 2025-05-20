@@ -1,0 +1,52 @@
+Exerciţiul 14: Studenții dintr-o grupă au susținut un test practic la o disciplină de programare și au notat rezultatul obținut la test, precum și numărul de ore, din săptămâna anterioară testului, în care au urmărit producții TV, împreună cu orele în care au exersat pentru test. Se cere să se evalueze influența orelor petrecute la televizor și a celor în care au exersat asupra notei obținute. 
+*Analiza de corelatie;
+DATA grupa_studenti;
+    INPUT Punctaj Televiziune Exercitii @@;
+DATALINES;
+56 6 2   78 7 4   84 5 5   73 4 0   90 3 4
+44 9 0   76 5 1   87 3 3   92 2 7   75 8 3
+85 1 6   67 4 2   90 5 5   84 6 5   74 5 2
+64 4 1   73 0 5   78 5 2   69 6 1   56 7 1
+87 8 4   73 8 3  100 0 6   54 8 0   81 5 4
+78 5 2   69 4 1   64 7 1   73 7 3   65 6 2
+;
+RUN;
+
+	•	Creează un set de date numit grupa_studenti, conținând 30 de studenți.
+	•	Pentru fiecare student se înregistrează:
+	•	Punctaj (scor la test),
+	•	Televiziune (ore pe zi petrecute la TV),
+	•	Exercitii (ore pe zi făcând exerciții).
+
+PROC CORR DATA = grupa_studenti;
+   VAR Televiziune Exercitii;
+   WITH Punctaj;
+   TITLE 'Corelatie intre punctajul la test';
+   TITLE2 'Si orele petrecute la televizor sau exarsand';
+RUN;
+
+	•	Calculează coeficienții de corelație Pearson între Punctaj și celelalte două variabile (Televiziune, Exercitii).
+	•	Se verifică dacă scorul la test este influențat de comportamentele zilnice (TV vs. exerciții).
+
+
+Analiza corelației arată o relație negativă semnificativă între timpul petrecut la televizor și punctajul la test (r = -0.5539, p < 0.01). În schimb, există o relație pozitivă puternică și semnificativă între timpul alocat exercițiilor și rezultatele la test (r = 0.7973, p < 0.0001). Astfel, practicarea regulată a exercițiilor pare să influențeze favorabil performanța academică, în timp ce timpul excesiv în fața televizorului o afectează negativ.
+
+- Statistica descriptiva
+
+Variabilă       Media       Min-Max     Observații
+Punctaj         74.63       44–100      media generală la test
+Televiziune     5.10        0–9         ore petrecute la TV zilnic
+Exercitii       2.83        0–7         ore de exerciții zilnic
+
+- Coef de corelatie
+
+Variabilă                                                       Coeficient r        p-value         Interpretare
+Televiziune                                                     -0.5539             0.0015          Corelație negativă semnificativă:
+cu cât mai mult timp la TV, cu atât scorul este mai mic
+
+Exercitii                                                       +0.7973             < 0.0001
+Corelație pozitivă puternică:
+cu cât mai multe exerciții, cu atât punctajul e mai mare
+
+
+
