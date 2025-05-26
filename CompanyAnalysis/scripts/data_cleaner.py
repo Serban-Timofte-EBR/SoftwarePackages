@@ -7,7 +7,7 @@ def clean_data(df, name):
 
     # (10) tratarea valorilor lipsă
     missing_values_before = df.isnull().sum().sum()
-    df.dropna(inplace=True)  # Eliminare valori lipsă
+    df.dropna(inplace=True)
     missing_values_after = df.isnull().sum().sum()
 
     logger.info("Missing values in %s: Before=%d, After=%d", name, missing_values_before, missing_values_after)

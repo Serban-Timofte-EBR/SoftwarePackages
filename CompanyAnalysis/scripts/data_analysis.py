@@ -7,7 +7,7 @@ def get_business_insights(clients, employees, sales, projects):
 
     # (7) accesarea datelor cu loc și iloc
     sample_client = clients.loc[0, ["CompanyName", "Industry"]]
-    sample_employee = employees.iloc[0, 2]  # Accesare prin index numeric
+    sample_employee = employees.iloc[0, 2]
 
     # (8) modificarea datelor în pachetul pandas
     sales["ProfitMargin"] = (sales["Revenue"] - sales["Costs"]) / sales["Revenue"] * 100
