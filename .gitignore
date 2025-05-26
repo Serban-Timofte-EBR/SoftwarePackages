@@ -1,4 +1,4 @@
-CompanyAnalysis/venv/
+CompanyAnalysis/.venv/
 CompanyAnalysis/.idea/
 CompanyAnalysis/.vscode/
 CompanyAnalysis/.pytest_cache/
